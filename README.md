@@ -1,3 +1,3 @@
-# golden-thread-api
+# cryptosafari-api
 
-[![LoopBack](https://github.com/strongloop/loopback-next/raw/master/docs/site/imgs/branding/Powered-by-LoopBack-Badge-(blue)-@2x.png)](http://loopback.io/)
+Back-end to a mobile app that facilitates donations to African wildlife charities, built using the Ionic framework.
